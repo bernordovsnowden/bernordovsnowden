@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**bernordovsnowden/bernordovsnowden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Vonzell Snowden
 
-Here are some ideas to get you started:
+AI / Data Pipeline Engineer transitioning from enterprise government analytics into AI, cloud, and data systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Skills
+- Python, SQL, Power BI, Power Query
+- Data Pipelines & Transformation
+- Machine Learning (CNN, NLP)
+- Enterprise Systems Integration
+
+## Current Focus
+- Building AI/ML projects
+- AWS Cloud & Machine Learning certifications
+- Developing scalable data workflows
+
+## Projects
+- Code Understanding Assistant (Python + Streamlit)
+
+## Education
+M.S. Information Systems Technology – George Washington University  
+Graduate Certificate in Artificial Intelligence  
+(CNN, RNN, LSTM, NLP, Machine Learning)
